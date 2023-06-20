@@ -1,5 +1,3 @@
-![d8f8cb51-f44d-48f2-b527-09ad7e6f99d9_iphone13blue_landscape](https://github.com/arpitaflutter/flutter_firebase/assets/116253518/14d33d74-f963-424a-af7e-7f9d2cb5122b)# flutter_firebase
-
 A new Flutter project.
 
 ## Getting Started
